@@ -1,35 +1,73 @@
 Pluto TV Canais:
-Nome:	       	     		|Número:  	      |Gênero:         	 |Categoria:
+Nome:	       	     		|Número:  	      |Descrição:         	 |Categoria:
       
-Guia de Canais 	     		|001	      |Divulgação      	 |Pluto TV
+Guia de Canais 	     		|001	      |Divulgação      	 	    |Pluto TV
 
-Cine Sucessos 	     		|052	      |C. de Filmes      	 	 |Filmes
-Filmes Ação   	     		|056             |C. de Filmes      	 	 |Filmes
-Adrenalina FreeZone   		|058	      |C. de Filmes      	 	 |Filmes
-Cine Comédia	     		|060	      |C. de Filmes      	 	 |Filmes
-Cine Comédia romântica 		|061	      |C. de Filmes      	 	 |Filmes
-Cine Drama                		|063	      |C. de Filmes     	 	 |Filmes
-Cine Romance             		|066	      |C. de Filmes      	 	 |Filmes
-Cine Suspence            		|069	      |C. de Filmes      	 	 |Filmes
-Cine Terror               		|072	      |C. de Filmes      	 	 |Filmes
-Ficção Científica         		|074	      |C. de Filmes      	 	 |Filmes
-Cine Nacional             		|081	      |C. de Filmes      	  	 |Filmes
-Cine Clássicos            		|085	      |C. de Filmes      	 	 |Filmes
-Cine Família                		|087	      |C. de Filmes      	 	 |Filmes
+Cine Sucessos 	     		|052	      |C. de Filmes      	 	    |Filmes
+Filmes Ação   	     		|056             |C. de Filmes      	 	    |Filmes
+Adrenalina FreeZone   		|058	      |C. de Filmes      	 	    |Filmes
+Cine Comédia	     		|060	      |C. de Filmes      	 	    |Filmes
+Cine Comédia romântica 		|061	      |C. de Filmes      	 	    |Filmes
+Cine Drama                		|063	      |C. de Filmes     	 	    |Filmes
+Cine Romance             		|066	      |C. de Filmes      	 	    |Filmes
+Cine Suspence            		|069	      |C. de Filmes      	 	    |Filmes
+Cine Terror               		|072	      |C. de Filmes      	 	    |Filmes
+Ficção Científica         		|074	      |C. de Filmes      	 	    |Filmes
+Cine Nacional             		|081	      |C. de Filmes      	  	    |Filmes
+Cine Clássicos            		|085	      |C. de Filmes      	 	    |Filmes
+Cine Família                		|087	      |C. de Filmes      	 	    |Filmes
 
-Paramount+ Apresenta     		|100	      |Divulgação        	  	 |Paramount+ Apresenta
+Paramount+ Apresenta     		|100	      |Divulgação        	  	    |Paramount+ Apresenta
 
-Séries                       		|101	        |Divulgação de Séries      	 |Entretenimento
-The Night Shift: Plantão Noturno 	|103               |Programa Night Shift     	 |Entretenimento
-Jeannie é um Gênio		 	|105               |Programa Jeannie é um Gênio      |Entretenimento
-Retrô			 	|106               |Programas antigos                   |Entretenimento
-Os Três Patetas			|108               |Programa Os Três Patetas        |Entretenimento
-Different strokes Arnold		|109               |Programa Arnold                     |Entretenimento
-Novelas			 	|124               |Divulgação de Novelas              |Entretenimento
-Canal UOL		 	|147               |Trabalhos do Canal UOL           |Entretenimento
-Jovem Pan			|149               |Trabalhos da Jovem Pan            |Entretenimento
-RecordTV			|150               |Trabalhos da RecordTV             |Entretenimento
-Nosey Escândalos			|151                |Escândalos e Brigas                 |Entretenimento
-Orgulho LGBTQIA+			|153               |Divulgação do movimento LGBT    |Entretenimento
-BET*			 	|154               |Programas antigos                   |Entretenimento
+Séries                       		|101	       |Divulgação de Séries      	    |Entretenimento
+The Night Shift: Plantão Noturno 	|103               |Programa Night Shift     	    |Entretenimento
+Jeannie é um Gênio		 	|105               |Programa Jeannie é um Gênio       	    |Entretenimento
+Retrô			 	|106               |Programas antigos                   	    |Entretenimento
+Os Três Patetas			|108               |Programa Os Três Patetas        	    |Entretenimento
+Different strokes Arnold		|109               |Programa Arnold                     	    |Entretenimento
+Novelas			 	|124               |Divulgação de Novelas               	    |Entretenimento
+Canal UOL		 	|147               |Trabalhos do Canal UOL           	    |Entretenimento
+Jovem Pan			|149               |Trabalhos da Jovem Pan            	    |Entretenimento
+RecordTV			|150               |Trabalhos da RecordTV             	    |Entretenimento
+Nosey Escândalos			|151                |Escândalos e Brigas                 	    |Entretenimento
+Orgulho LGBTQIA+			|153               |Divulgação do movimento LGBT    	    |Entretenimento
+BET*			 	|154               |Programas antigos                   	    |Entretenimento
+BET* Mary Jane			|155	       |Programas da Mary Jane	    |Entretenimento
+MTV				|157	       |Divulgação da MTV		    |Entretenimento
+MTV com o Ex			|158	       |Programa De Férias com o Ex	    |Entretenimento
+MTV Are You the One		|159	       |Programa Are You the One	    |Entretenimento
+MTV Jovens e Mães			|161	       |Programa Jovens e Mães	    |Entretenimento
+MTV Shore			|162	       |Programas "Shore" da MTV	    |Entretenimento
+MTV Catfish			|163	       |Programa Catfish UK		    |Entretenimento
+People are Awesome		|173	       |Programa People are Awesome	    |Entretenimento
+Younger				|175	       |Programa Younger		    |Entretenimento
+Nickteen				|176	       |Programas da Nick para AD.	    |Entretenimento
+Kenan & Kel			|177	       |Programa Kenan & Kel		    |Entretenimento
+iCarly				|178	       |Programa iCarly		    |Entretenimento
+MasterChef			|193	       |Programa MasterChef		    |Entretenimento
 
+CBS NEWS			|201	       |Rede de notícias da Paramount	    |Notícias
+euronews.	(em português)		|203	       |Rede de notícias da União Européia   |Notícias
+Record News			|205	       |Rede de notícias da RecordTV     	    |Notícias
+
+QoT: Quebrando o Tabu		|255	       |Variedades			    |Curiosidades
+Mestres do Ilusionismo		|260	       |Variedades Ilusórias		    |Curiosidades
+Mistérios				|262	       |Mistérios sobre a Humanidade	    |Curiosidades
+Pronto-Socorro: Hist. de Emergência	|265	       |Saúde			    |Curiosidades
+Minha Obsessão Favorita		|266	       |Obsessões Humanas		    |Curiosidades
+Pluto Vida Real			|267	       |Coisas comuns feitas por humanos	    |Curiosidades
+Pluto Natureza			|271	       |Natureza real mostrada na lata	    |Curiosidades
+Pluto Paisagens			|272	       |Paisagens Lindas		    |Curiosidades
+O Encantador de Cães		|274	       |Variedades caninas		    |Curiosidades
+Pluto Turbo			|283	       |Máquinas			    |Curiosidades
+Documentários			|288	       |Canal sobre Documentários diversos |Curiosidades
+
+Investigação			|301	       |Canal de Investigações		    |Investigação
+Mistérios sem solução		|309	       |Canal de Mistérios		    |Investigação
+
+Pluto Anime			|327	       |Animes Diversos		    |Anime & Geek
+Pluto Anime Ação			|329	       |Animes Diversos do gênero de Ação   |Anime & Geek
+Naruto				|331	       |Programa Naruto		    |Anime & Geek
+Death Note			|332	       |Programa Death Note		    |Anime & Geek
+Tokusato				|342	       |Animes do gênero de Tokusato	    |Anime & Geek
+Geek & Tech			|345	       |Variedades Gamers		    |Anime & Geek
